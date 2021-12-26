@@ -1,11 +1,15 @@
+@import url(//fonts.googleapis.com/css?family=Oswald);
 .input, .button{
+	font-family: 'Oswald', sans-serif;
 	padding: 69px;
 }
 .form{
+	font-family: 'Oswald', sans-serif;
 	padding: 69px;
 	background-color: #0B266C;
 }
 #nol{
+	font-family: 'Oswald', sans-serif;
 	color: #FB1239;
 	text-shadow: 2px 2px #A0ACEC;
 }
