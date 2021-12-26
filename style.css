@@ -1,0 +1,11 @@
+.input, .button{
+	padding: 69px;
+}
+.form{
+	padding: 69px;
+	background-color: #0B266C;
+}
+#nol{
+	color: #FB1239;
+	text-shadow: 2px 2px #A0ACEC;
+}
